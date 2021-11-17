@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 }
 
                 break;
-
+//JAVA
             case R.id.btn_two:
                 if(btn_two.getText() == answer){
                     Toast.makeText(MainActivity.this, "You Are Correct", Toast.LENGTH_SHORT).show();
