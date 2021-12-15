@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         random = new Random();
 
-
+//s
 
         btn_one = (Button)findViewById(R.id.btn_one);
         btn_one.setOnClickListener(this);
